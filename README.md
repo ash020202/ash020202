@@ -7,7 +7,7 @@ Web Dev and Designer
 I'm a web wizard weaving magic with pixels and code. From sleek designs to seamless functionality, I specialize in crafting captivating digital experiences. With a passion for innovation and an eye for detail, I'm here to bring your web dreams to life! Let's collaborate and create something extraordinary!
 
 *   🌍  I'm based in India
-*   🖥️  See my portfolio at [MyPortfolio](http://ash020202.github.io/css-competition-vk/newportfolio/portfolio.html)
+*   🖥️  See my portfolio at [MyPortfolio]([http://ash020202.github.io/css-competition-vk/newportfolio/portfolio.html](https://ash020202.github.io/MyPortfolio/portfolio.html))
 *   ✉️  You can contact me at [www.vimalofficial02@gmail.com](mailto:www.vimalofficial02@gmail.com)
 *   🧠  I'm learning angular,tailwind,socket.io,react,node
 *   🤝  I'm open to collaborating on Interesting projects
