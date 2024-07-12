@@ -9,7 +9,6 @@ I'm a web wizard weaving magic with pixels and code. From sleek designs to seaml
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [MyPortfolio](http://ash020202.github.io/css-competition-vk/newportfolio/portfolio.html)
 *   ✉️  You can contact me at [www.vimalofficial02@gmail.com](mailto:www.vimalofficial02@gmail.com)
-*   🚀  I'm currently working on [Snitch Clone](http://ash020202.github.io/css-competition-vk/snitchnew/snitch.html)
 *   🧠  I'm learning angular,tailwind,socket.io,react,node
 *   🤝  I'm open to collaborating on Interesting projects
 *
@@ -33,33 +32,12 @@ I'm a web wizard weaving magic with pixels and code. From sleek designs to seaml
       width="36"
       height="36"
       alt="TypeScript" /></a
-  ><a
-    href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"
-    target="_blank"
-    rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg"
-      width="36"
-      height="36"
-      alt="C" /></a
   ><a href="https://git-scm.com/" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
       width="36"
       height="36"
       alt="Git" /></a
-  ><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"
-      width="36"
-      height="36"
-      alt="Java" /></a
-  ><a href="https://www.python.org/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
-      width="36"
-      height="36"
-      alt="Python" /></a
   ><a
     href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
     target="_blank"
@@ -117,18 +95,6 @@ I'm a web wizard weaving magic with pixels and code. From sleek designs to seaml
       width="36"
       height="36"
       alt="Express" /></a
-  ><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg"
-      width="36"
-      height="36"
-      alt="TensorFlow" /></a
-  ><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg"
-      width="36"
-      height="36"
-      alt="Raspberry Pi" /></a
   ><a href="https://www.figma.com/" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
@@ -186,17 +152,7 @@ I'm a web wizard weaving magic with pixels and code. From sleek designs to seaml
     </picture>
   </a>
 </p>
-### Badges<b>My GitHub Stats</b
-><a href="http://www.github.com/ash020202"
-  ><img
-    src="https://github-readme-stats.vercel.app/api?username=ash020202&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true"
-    alt="ash020202's GitHub stats" /></a
-><a href="http://www.github.com/ash020202"
+<a href="http://www.github.com/ash020202"
   ><img
     src="https://github-readme-streak-stats.herokuapp.com/?user=ash020202&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a
-><a href="http://www.github.com/ash020202"
-  ><img
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=ash020202&bg_color=1c1917&color=ffffff&line=84cc16&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
-    alt="GitHub Commits Graph" /></a
-><a href="https://github.com/ash020202" align="left"
-  ></a>
+>
