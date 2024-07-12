@@ -11,11 +11,8 @@ I'm a web wizard weaving magic with pixels and code. From sleek designs to seaml
 *   ✉️  You can contact me at [www.vimalofficial02@gmail.com](mailto:www.vimalofficial02@gmail.com)
 *   🧠  I'm learning angular,tailwind,socket.io,react,node
 *   🤝  I'm open to collaborating on Interesting projects
-*
- <a href="https://www.github.com/ash020202" target="_blank" rel="noreferrer"
-  ><img
-    src="https://img.shields.io/github/followers/ash020202?logo=github&style=for-the-badge&color=84cc16&labelColor=1c1917" /></a
->### Skills
+
+ ### Skills
 <p align="left">
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
